@@ -1,2 +1,2 @@
 # fe-connecus
-VBI Hackathon
+Near version
